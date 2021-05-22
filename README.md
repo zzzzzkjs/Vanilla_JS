@@ -1,11 +1,12 @@
 # [Momentum](https://momentumdash.com/) 클론코딩 : 🍦Vanilla_JS 💦
 
+- 크롬 to-do Extension
+
 # 주요 기능
 
 - 현재시간 표시
-- 사용자 이름 localstorage저장
-
-진행하면서 계속 추가예정
+- localstorage활용(이름, to-do list 등록 및 삭제)
+- 랜덤 배경이미지 로딩
 
 # 사용 기술
 
