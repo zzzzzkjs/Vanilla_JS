@@ -10,7 +10,7 @@ function paingImage(imgNumber) {
   image.src = `/images/${imgNumber + 1}.jpg`;
   image.classList.add("bgImage");
   body.appendChild(image);
-//   image.addEventListener("loadend", handleImgLoad);
+  //   image.addEventListener("loadend", handleImgLoad);
 }
 
 function genRandom() {

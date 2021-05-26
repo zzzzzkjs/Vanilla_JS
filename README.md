@@ -2,11 +2,12 @@
 
 - 크롬 to-do Extension
 
-# 주요 기능
+# 기능
 
-- 현재시간 표시
-- localstorage활용(이름, to-do list 등록 및 삭제)
-- 랜덤 배경이미지 로딩
+- Clock
+- To Do List
+- Geolocation
+- Weather
 
 # 사용 기술
 
